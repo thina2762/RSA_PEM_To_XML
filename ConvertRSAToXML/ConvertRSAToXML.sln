@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertRSAToXML", "ConvertRSAToXML.csproj", "{DD768013-E1EE-43FB-8040-B0548E46B704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD768013-E1EE-43FB-8040-B0548E46B704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD768013-E1EE-43FB-8040-B0548E46B704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD768013-E1EE-43FB-8040-B0548E46B704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD768013-E1EE-43FB-8040-B0548E46B704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4B7F6F3-1209-4666-881F-DBDFD0B0D9E3}
+	EndGlobalSection
+EndGlobal
